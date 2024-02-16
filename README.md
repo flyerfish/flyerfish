@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @flyerfish
-- 👀 I’m interested in disign + coding
-- 🌱 I’m currently learning design
-- 💞️ I’m looking to collaborate on whatever is possible
+- 👀 I’m interested in playing games
+- 🌱 I’m currently learning how to stop playing games
+- 💞️ I’m looking to collaborate on anything cool
 - 📫 How to reach me: juliacamick@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i play minecraft
+- ⚡ Fun fact: i like minecraft
 
 <!---
 flyerfish/flyerfish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
